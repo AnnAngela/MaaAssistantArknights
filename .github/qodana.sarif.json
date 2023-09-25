@@ -143950,62 +143950,6 @@
             {
               "physicalLocation": {
                 "artifactLocation": {
-                  "uri": "src/MaaWpfGui/ViewModels/UI/SettingsViewModel.cs",
-                  "uriBaseId": "SRCROOT"
-                },
-                "region": {
-                  "startLine": 1547,
-                  "startColumn": 61,
-                  "charOffset": 59075,
-                  "charLength": 7,
-                  "snippet": {
-                    "text": "= false"
-                  },
-                  "sourceLanguage": "C#"
-                },
-                "contextRegion": {
-                  "startLine": 1545,
-                  "startColumn": 1,
-                  "charOffset": 59002,
-                  "charLength": 143,
-                  "snippet": {
-                    "text": "        }\r\n\r\n        private bool _roguelikeRefreshTraderWithDiceEnabled = false;\r\n\r\n        public bool RoguelikeRefreshTraderWithDiceEnabled\r"
-                  },
-                  "sourceLanguage": "C#"
-                }
-              },
-              "logicalLocations": [
-                {
-                  "fullyQualifiedName": "MaaWpfGui",
-                  "kind": "module"
-                }
-              ]
-            }
-          ],
-          "partialFingerprints": {
-            "equalIndicator/v1": "e41ceec8210f701f4c2d0965c1e481ba36a6041f608a8505a9afea0937bb4321"
-          },
-          "properties": {
-            "ideaSeverity": "WARNING",
-            "qodanaSeverity": "High",
-            "tags": [
-              "C#",
-              ".NETFramework 4.8.1"
-            ]
-          }
-        },
-        {
-          "ruleId": "RedundantDefaultMemberInitializer",
-          "kind": "fail",
-          "level": "warning",
-          "message": {
-            "text": "Initializing field by default value is redundant",
-            "markdown": "Initializing field by default value is redundant"
-          },
-          "locations": [
-            {
-              "physicalLocation": {
-                "artifactLocation": {
                   "uri": "src/MaaWpfGui/ViewModels/UI/CopilotViewModel.cs",
                   "uriBaseId": "SRCROOT"
                 },
